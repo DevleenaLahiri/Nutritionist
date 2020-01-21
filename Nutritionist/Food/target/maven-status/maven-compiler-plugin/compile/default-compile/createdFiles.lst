@@ -1,0 +1,17 @@
+com/project/jwtfilter/AuthFilter.class
+com/project/repository/NutrientsRepository.class
+com/project/service/FavoriteService.class
+com/project/repository/FoodRepository.class
+com/project/service/FoodServiceImpl.class
+com/project/model/Food.class
+com/project/service/FavoriteServiceImpl.class
+com/project/FoodApplication.class
+com/project/aspect/LoggingAspect.class
+com/project/service/NutrientsService.class
+com/project/model/Favorite.class
+com/project/service/FoodService.class
+com/project/repository/FavoriteRespository.class
+com/project/model/Nutrients.class
+com/project/service/NutrientsServiceImpl.class
+com/project/config/SwaggerConfig.class
+com/project/controller/FoodController.class

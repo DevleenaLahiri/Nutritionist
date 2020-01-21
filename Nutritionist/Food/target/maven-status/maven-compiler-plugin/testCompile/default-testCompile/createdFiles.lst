@@ -1,0 +1,8 @@
+com/project/service/NutrientsServiceImplTest.class
+com/project/model/FavoriteTest.class
+com/project/service/FoodServiceImplTest.class
+com/project/FoodApplicationTests.class
+com/project/model/NutrientsTest.class
+com/project/model/FoodTest.class
+com/project/controller/FoodControllerTest.class
+com/project/service/FavoriteServiceImplTest.class

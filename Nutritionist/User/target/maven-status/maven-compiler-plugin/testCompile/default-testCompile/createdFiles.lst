@@ -1,0 +1,4 @@
+com/project/model/UserTest.class
+com/project/NutritionistApplicationTests.class
+com/project/controller/UserControllerTest.class
+com/project/service/UserServiceImplTest.class

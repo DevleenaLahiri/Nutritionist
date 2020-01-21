@@ -1,0 +1,17 @@
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/service/FoodService.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/service/NutrientsService.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/service/FavoriteServiceImpl.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/repository/FoodRepository.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/aspect/LoggingAspect.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/FoodApplication.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/model/Nutrients.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/repository/FavoriteRespository.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/service/FoodServiceImpl.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/repository/NutrientsRepository.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/model/Favorite.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/service/NutrientsServiceImpl.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/service/FavoriteService.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/jwtfilter/AuthFilter.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/controller/FoodController.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/config/SwaggerConfig.java
+/home/ibm-wave10-asya/Desktop/Java/Nutritionist/Food/src/main/java/com/project/model/Food.java
